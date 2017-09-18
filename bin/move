@@ -16,3 +16,4 @@ display_board(board)
 
 # More likely to use puts here if you need something to be read by the user.
 # Need to define variables here and call to action using methods.
+# strip is used to remove spaces from user input. Good to use just in case.

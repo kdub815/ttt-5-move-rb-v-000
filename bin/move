@@ -13,3 +13,6 @@ index = input_to_index(user_input)
 
 move(board, index)
 display_board(board)
+
+# More likely to use puts here if you need something to be read by the user.
+# Need to define variables here and call to action using methods.

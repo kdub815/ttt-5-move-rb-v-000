@@ -17,3 +17,9 @@ end
 def move(board, index, character = "X")
   board[index] = character
 end
+
+# Don't need to use puts or return here unless directed to.
+# Also, return is used for methods with multiple arguments (aka multiple lines) in order to return the last line's output.
+# Do not define variables here outside of methods.
+# Think of this tab as the glossary of methods.
+# Do not call actions in here - save for bin tab.
